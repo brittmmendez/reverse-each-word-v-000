@@ -3,4 +3,5 @@ array=string.split(" ")
 array.collect do |word|
   word.reverse
   end
+  array.join
 end
