@@ -4,5 +4,5 @@ rev=[]
 array.each do |word|
 rev<<word.reverse
 end
-rev
+rev.join(" ")
 end
