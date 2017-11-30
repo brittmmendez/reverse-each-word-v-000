@@ -4,4 +4,3 @@ array.collect do |word|
   word.reverse
   end
 end
-
